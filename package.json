@@ -1,0 +1,28 @@
+{
+  "name": "learn-tape-testing",
+  "version": "0.0.1",
+  "description": "Learning to use Tape (https://github.com/substack/tape)",
+  "main": "strings.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raydot/learn-tape-testing.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "tape",
+    "testing"
+  ],
+  "author": "Dave Kanter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raydot/learn-tape-testing/issues"
+  },
+  "homepage": "https://github.com/raydot/learn-tape-testing#readme",
+  "devDependencies": {
+    "tape": "^4.9.1"
+  }
+}
